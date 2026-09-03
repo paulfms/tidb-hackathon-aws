@@ -1,4 +1,4 @@
-# ✈️ CO²mpensa Aí — Compense sua pegada com um clique
+# ✈️ CO²mpensa Aí — Compense a Emissão de Carbono com um clique
 
 **Codinome:** GreenFlight
 **Hackathon:** TiDB × AWS — São Paulo — 02/09/2026
