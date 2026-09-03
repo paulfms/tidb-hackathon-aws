@@ -14,7 +14,7 @@
 
 ## Pitch
 
-CO²mpensa Aí ("Compense sua pegada com um clique") mostra, no momento da compra, quanto CO₂ cada assento custa com a ocupação real do voo, deixa o passageiro escolher o trecho por carbono além de preço e rota, e transforma a compensação em projeto recomendado por IA, Green Points e dados ESG para a companhia.
+CO²mpensa Aí ("Compense a Emissão de Carbono com um clique") mostra, no momento da compra, quanto CO₂ cada assento custa com a ocupação real do voo, deixa o passageiro escolher o trecho por carbono além de preço e rota, e transforma a compensação em projeto recomendado por IA, Green Points e dados ESG para a companhia.
 
 ## O que faz
 
